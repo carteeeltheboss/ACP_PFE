@@ -99,13 +99,13 @@ L’ACP est une méthode de réduction de dimensionnalité linéaire qui projett
 ## Exemples de résultats
 
 **Géométrie de l’ACP**  
-![Géométrie de l’ACP](images/pca_geometric.png)
+![Géométrie de l’ACP](pca_geometric.png)
 
 **Échec sur données non linéaires**  
-![Non-linear PCA fail](images/nonlinear_pca_fail.png)
+![Non-linear PCA fail](nonlinear_pca_fail.png)
 
 **Impact des outliers**  
-![Outliers impact](images/outliers_impact.png)
+![Outliers impact](outliers_impact.png)
 
 **Reconstruction d’une image haute résolution**  
 | Original | k = 100 | k = 50 | k = 25 | k = 10 |
