@@ -115,6 +115,10 @@ L’ACP est une méthode de réduction de dimensionnalité linéaire qui projett
 **Taille vs Qualité**  
 ![Storage vs Quality](images/pca_storage_vs_quality.png)
 
+
+**SSIM - Structural Similarity Index Measure**  
+![Structural Similarity Index Measure](ssim_snap.png)
+
 ---
 
 ## Contribuer
