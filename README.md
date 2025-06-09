@@ -47,7 +47,7 @@ L’ACP est une méthode de réduction de dimensionnalité linéaire qui projett
 
 1. Cloner ce dépôt :  
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/carteeeltheboss/ACP_PFE.git
    cd votre-repo
    ```
 2. Créer et activer un environnement virtuel (recommandé) :  
